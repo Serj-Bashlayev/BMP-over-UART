@@ -22,8 +22,8 @@
 
 /* Includes ----------------------------------------------------------*/
 #include <assert.h>
-#include "bmp.h"
 #include "usart.h"
+#include "bmp.h"
 
 /**
   * @brief Sends a BMP file header to the UART
