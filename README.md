@@ -1,5 +1,5 @@
 # BMP-over-UART
-## Simple implementations of bmp file transfer via UART..
+## Simple implementation of bmp file transfer via UART..
 
 The input data comes in RGB565 format. Through the UART is transmitted header and data for saving the receiver side of the bmp file.
 
